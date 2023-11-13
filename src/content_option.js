@@ -12,7 +12,7 @@ const introdata = {
         third: "I'm a React Developer",
     },
     description: "🚀 Hello, I'm Kuldeep Rathore, a Bhopal-based React developer with 2 years of front-end experience, specializing in crafting visually appealing web applications using React.js, JavaScript, HTML5, and CSS3, driven by a passion for innovation and problem-solving. Let's collaborate and turn your digital visions into reality!",
-    your_img_url: "https://images.unsplash.com/photo-1517849845537-4d257902454a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    your_img_url: "https://images.unsplash.com/photo-1575089976121-8ed7b2a54265?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
@@ -83,27 +83,27 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://res.cloudinary.com/dwd3qhggm/image/upload/v1699773698/iq6ftgamxygcvdtrao1q.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Find Github User Details",
         link: "https://kuldeep2745.github.io/mtechzilla-2/",
     },
     {
         img: "https://res.cloudinary.com/dwd3qhggm/image/upload/v1699773865/emb0vsnyzyycgvzukwli.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Find Postal code project",
         link: "https://kuldeep2745.github.io/FindPostalArea/",
     },
     {
         img: "https://res.cloudinary.com/dwd3qhggm/image/upload/v1699774400/bgrsfmpgtcxwuwofk47x.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Clock Project",
         link: "https://kuldeep2745.github.io/clock-project/",
     },
     {
         img: "https://res.cloudinary.com/dwd3qhggm/image/upload/v1699774683/coz9zijkhvvc2hyuzkz0.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Simple natrue theme Website",
         link: "https://kuldeep2745.github.io/airpmo-website/",
     },
     {
         img: "https://res.cloudinary.com/dwd3qhggm/image/upload/v1699774942/edpyhyzepc1uzhvsjlv4.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Food ordering App with redux",
         link: "https://kuldeep2745.github.io/food-ordering-app/",
     },
     // {
